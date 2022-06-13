@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lourdes-app/static/css/main.754ebb54.css",
+    "main.js": "/lourdes-app/static/js/main.2fae548d.js",
+    "static/media/barba.jpg": "/lourdes-app/static/media/barba.65fedd0f0b80cf94ae07.jpg",
+    "static/media/lourdes.jpg": "/lourdes-app/static/media/lourdes.275c276e8eca03628c52.jpg",
+    "index.html": "/lourdes-app/index.html",
+    "main.754ebb54.css.map": "/lourdes-app/static/css/main.754ebb54.css.map",
+    "main.2fae548d.js.map": "/lourdes-app/static/js/main.2fae548d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.754ebb54.css",
+    "static/js/main.2fae548d.js"
+  ]
+}
