@@ -1,11 +1,14 @@
-import React from "react";
+import React from 'react'
+import Landing from './pages/landing'
+import {ThemeProvider} from 'styled-components'
+import {theme} from './theme'
 
 const App = () => {
-  return (
-    <div className="App">
-      <h2>Hola!</h2>
-    </div>
-  );
-};
+	return (
+		<ThemeProvider theme={theme}>
+			<Landing></Landing>
+		</ThemeProvider>
+	)
+}
 
-export default App;
+export default App
